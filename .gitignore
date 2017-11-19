@@ -5,6 +5,9 @@ web/app/mu-plugins/*/
 web/app/upgrade
 web/app/uploads/*
 !web/app/uploads/.gitkeep
+# Docs
+sage8.pdf
+Bedrock.pdf
 
 # WordPress
 web/wp
